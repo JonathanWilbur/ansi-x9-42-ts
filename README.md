@@ -1,4 +1,4 @@
-# ANSI X9.62 ASN.1 Data Structures in TypeScript
+# ANSI X9.42 ASN.1 Data Structures in TypeScript
 
 * Author: [Jonathan M. Wilbur](https://github.com/JonathanWilbur) <[jonathan@wilbur.space](mailto:jonathan@wilbur.space)>
 * Copyright Year: 2021
